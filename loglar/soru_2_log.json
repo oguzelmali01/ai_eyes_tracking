@@ -1,0 +1,18 @@
+{
+    "soru_no": 2,
+    "soru": "Python'da listeyi ters çevirmek için hangi yöntem kullanılır?",
+    "secenekler": [
+        "reverse()",
+        "append()",
+        "sort()",
+        "pop()"
+    ],
+    "secili_cevap": "sort()",
+    "dogru_cevap": "reverse()",
+    "dogru_mu": false,
+    "sure_sn": 9.68,
+    "odakli_frame": 79,
+    "toplam_frame": 255,
+    "odak_orani": 0.31,
+    "okuma_tahmini": "Okumamış"
+}

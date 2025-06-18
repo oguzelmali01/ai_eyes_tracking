@@ -1,0 +1,18 @@
+{
+    "soru_no": 3,
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": [
+        "İstanbul",
+        "İzmir",
+        "Ankara",
+        "Bursa"
+    ],
+    "secili_cevap": "Bursa",
+    "dogru_cevap": "Ankara",
+    "dogru_mu": false,
+    "sure_sn": 6.41,
+    "odakli_frame": 19,
+    "toplam_frame": 157,
+    "odak_orani": 0.12,
+    "okuma_tahmini": "Okumamış"
+}

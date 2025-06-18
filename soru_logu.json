@@ -1,0 +1,29 @@
+[
+    {
+        "soru_no": 1,
+        "soru": "1. Dünya Savaşı hangi yılda başladı?",
+        "sure_sn": 1.27,
+        "odakli_frame": 1,
+        "toplam_frame": 1,
+        "odak_orani": 1.0,
+        "okuma_tahmini": "Okumuş"
+    },
+    {
+        "soru_no": 2,
+        "soru": "Python'da listeyi ters çevirmek için hangi yöntem kullanılır?",
+        "sure_sn": 4.24,
+        "odakli_frame": 70,
+        "toplam_frame": 91,
+        "odak_orani": 0.77,
+        "okuma_tahmini": "Okumuş"
+    },
+    {
+        "soru_no": 3,
+        "soru": "Türkiye'nin başkenti neresidir?",
+        "sure_sn": 2.95,
+        "odakli_frame": 50,
+        "toplam_frame": 50,
+        "odak_orani": 1.0,
+        "okuma_tahmini": "Okumuş"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "soru_no": 1,
+    "soru": "Adana'nın plakası nedir?",
+    "secenekler": [
+        "01",
+        "05",
+        "10",
+        "15"
+    ],
+    "secili_cevap": "01",
+    "dogru_cevap": "01",
+    "dogru_mu": true,
+    "sure_sn": 6.1,
+    "odakli_frame": 114,
+    "toplam_frame": 148,
+    "odak_orani": 0.77,
+    "okuma_tahmini": "Okumuş"
+}
